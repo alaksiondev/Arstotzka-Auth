@@ -1,3 +1,3 @@
-# invoicer-auth-service
+# Arstotzka-Auth
 
-Authentication microservice for the Invoicer product
+Arstotzka-Auth is an authentication micro-serivce
